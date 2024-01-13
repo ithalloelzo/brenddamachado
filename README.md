@@ -1,14 +1,25 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e482b&size=35&center=true&vCenter=true&width=1000&lines=Hello+Word!:%29)](https://git.io/typing-svg)
 
+<h4 align="center">
+Seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<hr>
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+<hr>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=brenddamachado&show_icons=true&count_private=true&hide_border=true&title_color=152b62&icon_color=ff91a4&text__color=0d1117" alt="Brenda Machado" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenddamachado&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brenddamachado&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brenddamachado&theme=chartreuse-dark"/> 
+
 </div>
-
-
-
-##
+ <h4 align="center">
+Tecnologias que você encontrará por aqui
+<div align="center"><br>
+ <h6>
+HTML - CSS - JAVASCRIPT - TYPESCRIPT - NODE.JS - REACTJS - REACT NATIVE - VITE
+  
+ 
 
 
   
