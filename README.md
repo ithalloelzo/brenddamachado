@@ -10,7 +10,7 @@ Seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLF
 <hr>
 <div align="center">  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brenddamachado&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=brenddamachado&theme=chartreuse-dark"/> 
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=brenddamachado&theme=chartreuse-dark"/> 
 
 </div>
  <h4 align="center">
